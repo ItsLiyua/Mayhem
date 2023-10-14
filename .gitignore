@@ -1,9 +1,11 @@
 XaeroWaypoints*/
 XaeroWorldMap*/
+backups/
 crash-reports/
 logs/
 mods/
 resourcepacks/
 saves/
+screenshots/
 usercache.json
 usernamecache.json
