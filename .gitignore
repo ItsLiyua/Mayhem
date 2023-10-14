@@ -2,10 +2,13 @@ XaeroWaypoints*/
 XaeroWorldMap*/
 backups/
 crash-reports/
+fancy_menus/
 logs/
+local/
 mods/
 resourcepacks/
 saves/
 screenshots/
 usercache.json
 usernamecache.json
+patchouli_data.json

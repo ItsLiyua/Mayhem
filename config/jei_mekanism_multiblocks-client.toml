@@ -8,11 +8,6 @@
 			#Set page visibility
 			visible = true
 
-		#JEI 'Building [Thermal Evaporation Plant]' page configuration
-		[multiblocks.mekanism.evaporation_plant]
-			#Set page visibility
-			visible = true
-
 		#JEI 'Building [Thermoelectric Boiler]' page configuration
 		[multiblocks.mekanism.boiler]
 			#Set page visibility
@@ -25,6 +20,11 @@
 
 		#JEI 'Building [Induction Matrix]' page configuration
 		[multiblocks.mekanism.matrix]
+			#Set page visibility
+			visible = true
+
+		#JEI 'Building [Thermal Evaporation Plant]' page configuration
+		[multiblocks.mekanism.evaporation_plant]
 			#Set page visibility
 			visible = true
 
