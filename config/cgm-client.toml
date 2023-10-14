@@ -25,9 +25,9 @@
 	[client.display]
 		#The sensistivity of the visual weapon sway when the player moves their look direciton. The higher the value the more sway.
 		#Range: 0.0 ~ 1.0
-		swaySensitivity = 0.3
+		swaySensitivity = 0.0
 		#The custom crosshair to use for weapons. Go to (Options > Controls > Mouse Settings > Crosshair) in game to change this!
-		crosshair = "minecraft:default"
+		crosshair = "cgm:better_default"
 		#When Camera Roll Effect is enabled, this is the absolute maximum angle the roll on the camera can approach.
 		#Range: 0.0 ~ 45.0
 		cameraRollAngle = 1.5
