@@ -1,7 +1,6 @@
-XaeroWaypoints*/
-XaeroWorldMap*/
 backups/
 crash-reports/
+examples-scripts/
 fancy_menus/
 logs/
 local/
@@ -9,6 +8,8 @@ mods/
 resourcepacks/
 saves/
 screenshots/
+XaeroWaypoints*/
+XaeroWorldMap*/
 usercache.json
 usernamecache.json
 patchouli_data.json
