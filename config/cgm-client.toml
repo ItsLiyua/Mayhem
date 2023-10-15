@@ -30,15 +30,15 @@
 		crosshair = "cgm:better_default"
 		#When Camera Roll Effect is enabled, this is the absolute maximum angle the roll on the camera can approach.
 		#Range: 0.0 ~ 45.0
-		cameraRollAngle = 1.5
+		cameraRollAngle = 0.0
 		#The intensity of the custom bobbing animation while holding a gun
 		#Range: 0.0 ~ 2.0
-		bobbingIntensity = 1.0
+		bobbingIntensity = 0.0
 		#The animation to use for sway. Directional follows the camera better while Drag is more immersive
 		#Allowed Values: DIRECTIONAL, DRAG
 		swayType = "DRAG"
 		#If enabled, the weapon will sway when the player moves their look direction. This does not affect aiming and is only visual.
-		weaponSway = true
+		weaponSway = false
 		#If true, uses the old animation poses for weapons. This is only for nostalgic reasons and not recommended to switch back.
 		oldAnimations = false
 		#Enables the sprinting animation on weapons for better immersion. This only applies to weapons that support a sprinting animation.
