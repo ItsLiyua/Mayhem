@@ -1,0 +1,6 @@
+{
+  "parent" : "item/generated",
+  "textures" :
+  {"layer0" : "contenttweaker:item/ghastly_dust_dirty"
+  }
+}
