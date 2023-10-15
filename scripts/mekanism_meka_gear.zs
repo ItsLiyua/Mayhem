@@ -5,17 +5,17 @@ for index, item in items {
     craftingTable.removeByName("mekanism:mekasuit_" + item);
 
     craftingTable.addShaped("mekanism/mekasuit_" + item, <item:mekanism:mekasuit_${item}>, [
-        [<item:aoa3:shyrestone_ingot>, <item:mekanism:ultimate_control_circuit>, <item:aoa3:shyrestone_ingot>],
+        [<item:aoa3:lunar_ingot>, <item:mekanism:ultimate_control_circuit>, <item:aoa3:lunar_ingot>],
         [<item:aoa3:shyrestone_ingot>, <item:aoa3:${frames[index]}_frame>, <item:aoa3:shyrestone_ingot>],
-        [<item:mekanism:pellet_polonium>, <item:mekanism:basic_induction_cell>, <item:mekanism:pellet_polonium>]]);
+        [<item:mekanism:pellet_polonium>, <item:mekanism:elite_induction_cell>, <item:mekanism:pellet_polonium>]]);
 }
 
 craftingTable.removeByName("mekanism:meka_tool");
 
 craftingTable.addShaped("mekanism/meka_tool", <item:mekanism:meka_tool>, [
-    [<item:aoa3:shyrestone_ingot>, <item:mekanism:ultimate_control_circuit>, <item:aoa3:shyrestone_ingot>],
+    [<item:aoa3:lunar_ingot>, <item:mekanism:ultimate_control_circuit>, <item:aoa3:lunar_ingot>],
     [<item:aoa3:shyrestone_ingot>, <item:mekanism:atomic_disassembler>, <item:aoa3:shyrestone_ingot>],
-    [<item:mekanism:pellet_polonium>, <item:mekanism:basic_induction_cell>, <item:mekanism:pellet_polonium>]]);
+    [<item:mekanism:pellet_polonium>, <item:mekanism:elite_induction_cell>, <item:mekanism:pellet_polonium>]]);
 
 craftingTable.removeByName("mekanism:module_base");
 
