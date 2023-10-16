@@ -6,7 +6,7 @@ for t in ["advanced", "elite", "ultimate"] {
     craftingTable.removeByName("mekanism:control_circuit/" + t);
 }
 
-<recipetype:mekanism:metallurgic_infusing>.addRecipe("mekanism/basic_circuit_board", ItemStackIngredient.from(<item:aoa3:limonite_ingot>), InfusionStackIngredient.from(<infuse_type:crafttweaker:emberstone_infuse_type> * 20), <item:mekanism:basic_control_circuit>);
+<recipetype:mekanism:metallurgic_infusing>.addRecipe("mekanism/basic_circuit_board", ItemStackIngredient.from(<item:aoa3:limonite_ingot>), InfusionStackIngredient.from(<infuse_type:mekanism:redstone> * 20), <item:mekanism:basic_control_circuit>);
 
 craftingTable.addShaped("mekanism/advanced_circuit_board", <item:mekanism:advanced_control_circuit>, [
     [<item:minecraft:air>, <item:aoa3:varsium_ingot>, <item:minecraft:air>],
