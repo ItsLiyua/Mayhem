@@ -1,10 +1,10 @@
 craftingTable.addShapedMirrored("cgm/pistol", <item:cgm:pistol>.withTag({AmmoCount: 16}), [
-    [<item:aoa3:skeletal_ingot>, <item:aoa3:skeletal_ingot>, <item:aoa3:skeletal_ingot>],
+    [<item:aoa3:blazium_ingot>, <item:aoa3:blazium_ingot>, <item:aoa3:blazium_ingot>],
     [<item:aoa3:baronyte_ingot>, <item:aoa3:gun_frame>, <tag:items:forge:ingots/steel>],
     [<item:minecraft:air>, <item:minecraft:air>, <tag:items:forge:ingots/steel>]]);
 
 craftingTable.addShapedMirrored("cgm/machine_pistol", <item:cgm:machine_pistol>.withTag({AmmoCount: 80}), [
-    [<item:aoa3:skeletal_ingot>, <item:aoa3:skeletal_ingot>, <item:aoa3:skeletal_ingot>],
+    [<item:aoa3:blazium_ingot>, <item:aoa3:blazium_ingot>, <item:aoa3:blazium_ingot>],
     [<item:aoa3:blazium_ingot>, <item:aoa3:gun_frame>, <tag:items:forge:ingots/steel>],
     [<item:minecraft:air>, <item:aoa3:emberstone_ingot>, <tag:items:forge:ingots/steel>]]);
 

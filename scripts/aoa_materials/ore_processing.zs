@@ -52,4 +52,9 @@ for t in types {
     if t in ores {
         <recipetype:mekanism:dissolution>.addRecipe("mekanism/dissolution_" + t + "_ore_to_dirty_slurry", <item:aoa3:${t}_ore>, <gas:mekanism:sulfuric_acid>, <slurry:crafttweaker:${t}_dirty_slurry> * 1000);
     }
+
+    // Ore to Dust
+    if t in ores {
+        <recipetype:mekanism:enriching>.addRecipe("mekanism/" + t + "_ore_to_dust", ItemStackIngredient.from(<item:aoa3:${t}_ore>), <item:contenttweaker:${t}_dust> * 2);
+    }
 }
