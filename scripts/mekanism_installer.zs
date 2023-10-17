@@ -6,7 +6,7 @@ for t in tiers {
 
 craftingTable.addShaped("mekanism/installer/basic", <item:mekanism:basic_tier_installer>, [
     [<item:minecraft:redstone>, <item:mekanism:basic_control_circuit>, <item:minecraft:redstone>],
-    [<item:aoa3:skeletal_ingot>,<item:aoa3:blazium_ingot>,<item:aoa3:skeletal_ingot>],
+    [<item:aoa3:baronyte_ingot>,<item:aoa3:blazium_ingot>,<item:aoa3:baronyte_ingot>],
     [<item:minecraft:redstone>, <item:mekanism:basic_control_circuit>, <item:minecraft:redstone>]]);
 
 craftingTable.addShaped("mekanism/installer/advanced/ghoulish", <item:mekanism:advanced_tier_installer>, [

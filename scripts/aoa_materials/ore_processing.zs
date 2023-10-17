@@ -24,7 +24,7 @@ for t in types {
     <recipetype:mekanism:crushing>.addRecipe("mekanism/crush_" + t + "_ingot_to_dust", <item:aoa3:${t}_ingot>, <item:contenttweaker:${t}_dust>);
 
     // Dust to Ingot
-    furnace.addRecipe("mekanism/smelt_" + t + "_dust_to_ingot", <item:aoa3:${t}_ingot>, <item:contenttweaker:${t}_dust>, 1.0, 30);
+    furnace.addRecipe("mekanism/smelt_" + t + "_dust_to_ingot", <item:aoa3:${t}_ingot>, <item:contenttweaker:${t}_dust>, 1.0, 200);
 
     // Dirty Dust to Dust
     <recipetype:mekanism:enriching>.addRecipe("mekanism/dirty_" + t + "_to_dust", ItemStackIngredient.from(<item:contenttweaker:${t}_dust_dirty>), <item:contenttweaker:${t}_dust>);
