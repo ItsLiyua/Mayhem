@@ -95,7 +95,7 @@
 		"Dragon Egg Hatch Time" = 7200
 		#Dragon Flap Noise Distance - Larger number, further away you can hear it
 		#Range: 0 ~ 10000
-		"Dragon Flap Noise Distance" = 4
+		"Dragon Flap Noise Distance" = 16
 		#Dragon Flute Distance - how many chunks away is the dragon flute effective?
 		#Range: 0 ~ 10000
 		"Dragon Flute Distance" = 4
@@ -107,13 +107,13 @@
 		"Dragon Attack Damage" = 17
 		#Damage dealt from a successful fire breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Fire breath)" = 2.0
+		"Dragon Attack Damage(Fire breath)" = 3.5
 		#Damage dealt from a successful ice breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Ice breath)" = 2.5
+		"Dragon Attack Damage(Ice breath)" = 4
 		#Damage dealt from a successful lightning breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Lightning breath)" = 3.5
+		"Dragon Attack Damage(Lightning breath)" = 4.5
 		#Change this to slow down or speed up dragon or amphithere flight.
 		#Range: 0.0 ~ 2.0
 		"Dragon Flight Speed Modifier" = 1.0
@@ -357,10 +357,10 @@
 		"Sea Serpent Griefing" = true
 		#Default sea serpent health, this is scaled to the sea serpent's particular size
 		#Range: 1.0 ~ 10000.0
-		"Sea Serpent Base Health" = 20.0
+		"Sea Serpent Base Health" = 100.0
 		#Default sea serpent attack strength, this is scaled to the sea serpent's particular size
 		#Range: 1.0 ~ 10000.0
-		"Sea Serpent Base Attack Strength" = 4.0
+		"Sea Serpent Base Attack Strength" = 5.5
 
 	[Mobs.Hippocampus]
 		#True if hippocampi are allowed to spawn
