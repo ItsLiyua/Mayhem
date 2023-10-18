@@ -121,12 +121,12 @@
 	[general.digital_miner]
 		#Number of ticks required to mine a single block with a Digital Miner (without any upgrades).
 		#Range: > 1
-		ticksPerMine = 80
+		ticksPerMine = 10
 		#Maximum radius in blocks that the Digital Miner can reach. (Increasing this may have negative effects on stability and/or performance. We strongly recommend you leave it at the default value).
 		#Range: > 1
-		maxRadius = 32
+		maxRadius = 256
 		#Energy multiplier for using silk touch mode with the Digital Miner.
-		silkMultiplier = 6
+		silkMultiplier = 1
 
 	#Quantum Entangloporter Settings
 	[general.quantum_entangloporter]

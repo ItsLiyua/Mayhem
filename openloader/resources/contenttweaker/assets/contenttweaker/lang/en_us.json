@@ -68,5 +68,19 @@
   "item.contenttweaker.rosite_crystal": "Rosite Crystal",
   "item.contenttweaker.shyrestone_crystal": "Shyrestone Crystal",
   "item.contenttweaker.skeletal_crystal": "Skeletal Crystal",
-  "item.contenttweaker.varsium_crystal": "Varsium Crystal"
+  "item.contenttweaker.varsium_enriched": "Enriched Varsium",
+  "item.contenttweaker.baronyte_enriched": "Enriched Baronyte",
+  "item.contenttweaker.blazium_enriched": "Enriched Blazium",
+  "item.contenttweaker.elecanium_enriched": "Enriched Elecanium",
+  "item.contenttweaker.emberstone_enriched": "Enriched Emberstone",
+  "item.contenttweaker.ghastly_enriched": "Enriched Ghastly",
+  "item.contenttweaker.ghoulish_enriched": "Enriched Ghoulish",
+  "item.contenttweaker.limonite_enriched": "Enriched Limonite",
+  "item.contenttweaker.lunar_enriched": "Enriched Lunar",
+  "item.contenttweaker.lyon_enriched": "Enriched Lyon",
+  "item.contenttweaker.mystite_enriched": "Enriched Mystite",
+  "item.contenttweaker.rosite_enriched": "Enriched Rosite",
+  "item.contenttweaker.shyrestone_enriched": "Enriched Shyrestone",
+  "item.contenttweaker.skeletal_enriched": "Enriched Skeletal",
+  "item.contenttweaker.varsium_enriched": "Enriched Varsium"
 }
