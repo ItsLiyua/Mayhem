@@ -21,7 +21,7 @@ craftingTable.addShaped("mekanism/installer/advanced/ghastly", <item:mekanism:ad
 
 craftingTable.addShaped("mekanism/installer/elite", <item:mekanism:elite_tier_installer>, [
     [<item:mekanism:alloy_reinforced>, <item:mekanism:elite_control_circuit>, <item:mekanism:alloy_reinforced>],
-    [<item:aoa3:lunar_ingot>,<item:aoa3:crystallite>,<item:aoa3:lunar_ingot>],
+    [<item:aoa3:lyon_ingot>,<item:aoa3:crystallite>,<item:aoa3:lyon_ingot>],
     [<item:mekanism:alloy_reinforced>, <item:mekanism:elite_control_circuit>, <item:mekanism:alloy_reinforced>]]);
 
 craftingTable.addShaped("mekanism/installer/ultimate", <item:mekanism:ultimate_tier_installer>, [

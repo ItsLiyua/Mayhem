@@ -6,10 +6,3 @@ for f in factories {
         craftingTable.removeByName("mekanism:factory/" + t + "/" + f);
     }
 }
-
-tiers = ["advanced", "elite", "ultimate"] as string[];
-
-for t in tiers {
-    craftingTable.removeByName("mekanism:energy_cube/" + t);
-    craftingTable.removeByName("mekanism:bin/" + t);
-}

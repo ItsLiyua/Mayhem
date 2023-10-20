@@ -19,6 +19,6 @@ craftingTable.addShaped("mekanism/elite_circuit_board", <item:mekanism:elite_con
     [<item:minecraft:air>, <item:aoa3:mystite_ingot>, <item:minecraft:air>]]);
 
 craftingTable.addShaped("mekanism/ultimate_circuit_board", <item:mekanism:ultimate_control_circuit>, [
-    [<item:minecraft:air>, <item:aoa3:lunar_ingot>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:aoa3:lyon_ingot>, <item:minecraft:air>],
     [<item:mekanism:alloy_atomic>, <item:mekanism:elite_control_circuit>, <item:mekanism:alloy_atomic>],
-    [<item:minecraft:air>, <item:aoa3:lunar_ingot>, <item:minecraft:air>]]);
+    [<item:minecraft:air>, <item:aoa3:lyon_ingot>, <item:minecraft:air>]]);

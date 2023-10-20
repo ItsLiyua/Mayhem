@@ -11,6 +11,9 @@ for t in types {
     // Dust to Enriched
     <recipetype:mekanism:enriching>.addRecipe("mekanism/" + t + "_dust_to_enriched", ItemStackIngredient.from(<item:contenttweaker:${t}_dust>), <item:contenttweaker:${t}_enriched>);
 
+    // Ingot to Enriched
+    <recipetype:mekanism:enriching>.addRecipe("mekanism/" + t + "_ingot_to_enriched", ItemStackIngredient.from(<item:aoa3:${t}_ingot>), <item:contenttweaker:${t}_enriched>);
+
     // Enriched to Infuse
     <recipetype:mekanism:infusion_conversion>.addRecipe("infusion_conversion/" + t + "/from_enriched", <item:contenttweaker:${t}_enriched> as ItemStackIngredient, <infuse_type:crafttweaker:${t}_infuse_type> * 80);
 
